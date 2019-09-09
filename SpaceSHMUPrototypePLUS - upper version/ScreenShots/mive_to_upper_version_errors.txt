@@ -1,0 +1,9 @@
+???Unity 2019 Text Mesh Pro Error?
+
+Since this is marked solved without an explanation, I'll list my fix in case anyone else sees this. 
+I went to Project Settings>Player>Other Settings>Configuration and changed Scripting Runtime Version to .NET 4.x Equivalent, then restarted Unity.
+
+???[WEBGL] NETWORKDISCOVERY.CS BUILD ERRORS WHEN TRYING TO BUILD A PROJECT WITH MULTIPLAYER HLAPI
+
+I fixed this by going to Window> package manager and selecting the Multiplayer hlapi package and clicking remove.
+I did this for a non multiplayer game and it seems to have no issues because of it.

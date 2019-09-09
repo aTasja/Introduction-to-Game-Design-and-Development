@@ -1,0 +1,13 @@
+{
+"companyName": "Anastasia Shatova",
+"productName": "Apple Picker",
+"dataUrl": "Build.data.unityweb",
+"wasmCodeUrl": "Build.wasm.code.unityweb",
+"wasmFrameworkUrl": "Build.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#46316F",
+"cacheControl": {"default": "must-revalidate"}
+}

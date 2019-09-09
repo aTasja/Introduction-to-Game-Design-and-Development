@@ -1,0 +1,27 @@
+<<<<<<< HEAD
+fileFormatVersion: 2
+guid: 0430d74aa4102cb42909e602b1c507f6
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 6ca32b9229289b7b4c6f7c9320b69c0221c23864
+||||||| merged common ancestors
+=======
+fileFormatVersion: 2
+<<<<<<< HEAD:Prospector_Solitaire/Assets/_Prefabs/PrefabSprite.prefab.meta
+guid: 30a6ba41f0d264815a76b64a60ee0b62
+||||||| merged common ancestors:SpaceSHMUPrototypePLUS/Assets/Sprites/Materials/laser_texture.mat.meta
+guid: de76124b27e3a1b4694fcbf340c653b8
+=======
+guid: 0430d74aa4102cb42909e602b1c507f6
+>>>>>>> 6ca32b9229289b7b4c6f7c9320b69c0221c23864:SpaceSHMUPrototypePLUS - upper version/Assets/Sprites/Materials/EnemyMat.mat.meta
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> 6ca32b9229289b7b4c6f7c9320b69c0221c23864

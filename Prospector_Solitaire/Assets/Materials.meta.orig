@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Prospector_Solitaire/Assets/Materials.meta
+guid: d0217d346471649b9800f30a40f91143
+||||||| merged common ancestors:SpaceSHMUPrototypePLUS/Assets/LightCone - Volumetric Spotlight.meta
+guid: cb14a2d1aa6a99b419cdedf66e9f3a9c
+=======
+guid: bb872ac741cee455ea87a73a594206e5
+>>>>>>> 6ca32b9229289b7b4c6f7c9320b69c0221c23864:Prospector Solitaire/Assets/Resources.meta
+folderAsset: yes
+<<<<<<< HEAD:Prospector_Solitaire/Assets/Materials.meta
+timeCreated: 1476112309
+licenseType: Free
+||||||| merged common ancestors:SpaceSHMUPrototypePLUS/Assets/LightCone - Volumetric Spotlight.meta
+=======
+timeCreated: 1476110910
+licenseType: Free
+>>>>>>> 6ca32b9229289b7b4c6f7c9320b69c0221c23864:Prospector Solitaire/Assets/Resources.meta
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

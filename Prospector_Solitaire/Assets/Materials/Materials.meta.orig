@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Prospector_Solitaire/Assets/Materials/Materials.meta
+guid: b4098bf0ebe820c459d80111c2f63906
+||||||| merged common ancestors:SpaceSHMUPrototypePLUS/Assets/Sprites/Materials.meta
+guid: 86e32368561d3544b828fd4367efa757
+=======
+guid: d0217d346471649b9800f30a40f91143
+>>>>>>> 6ca32b9229289b7b4c6f7c9320b69c0221c23864:Prospector Solitaire/Assets/Materials.meta
+folderAsset: yes
+timeCreated: 1476112309
+licenseType: Free
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
