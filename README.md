@@ -35,3 +35,9 @@ PROSPECTOR SOLITAIRE
 + to try my advanced version of the game -  https://a-tasja.itch.io/three-peaks
 
 ![alt text](https://github.com/aTasja/Introduction-to-Game-Design-and-Development/blob/master/Prospector_Solitaire/Screens/main.png)
+
+BARTOK
+-------------------
++ to try the game -  https://a-tasja.itch.io/bartok
+
+![alt text](https://github.com/aTasja/Introduction-to-Game-Design-and-Development/blob/master/Bartok/Screens/main.png)
