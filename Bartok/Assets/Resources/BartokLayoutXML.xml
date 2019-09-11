@@ -1,0 +1,23 @@
+<xml>
+  <!-- This file includes info for laying out the Bartok card game. -->
+  <!-- The multiplier is multiplied by the x and y attributes below. -->
+  
+  <!-- This determines how loose or tight the layout is. -->
+  <multiplier x="1" y="1" />
+  
+  <!-- This positions the draw pile and staggers it -->
+  <slot type="drawpile" x="1.5" y="0" xstagger="0.05" layer="1"/>
+  
+  <!-- This positions the discard pile -->
+  <slot type="discardpile" x="-1.5" y="0" layer="2"/>
+  
+  <!-- This positions the target card -->
+  <slot type="target" x="-1.5" y="0" layer="4"/>
+  
+  <!-- These slots are for the four hands held by the four players -->
+  <slot type="hand" x="0"   y="-8"  rot="0"   player="1" layer="3"/>
+  <slot type="hand" x="-10" y="0"   rot="270" player="2" layer="3"/>
+  <slot type="hand" x="0"   y="8"   rot="180" player="3" layer="3"/>
+  <slot type="hand" x="10"  y="0"   rot="90"  player="4" layer="3"/>
+</xml>
+	

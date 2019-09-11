@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD:Prospector_Solitaire/Assets/__Scripts/Utils.cs.meta
+guid: c78e537984e8e4215a5293992c3edd35
+||||||| merged common ancestors:SpaceSHMUPrototypePLUS/Assets/__Scripts/Enemy_1.cs.meta
+guid: 52af6094b78268c4192aa7e055ff40f6
+=======
+guid: d7ae3889c7be74b4e9dd156dd6318db4
+>>>>>>> 6ca32b9229289b7b4c6f7c9320b69c0221c23864:Prospector Solitaire/Assets/__Scripts/PT_XMLReader.cs.meta
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
