@@ -41,3 +41,10 @@ BARTOK
 + to try the game -  https://a-tasja.itch.io/bartok
 
 ![alt text](https://github.com/aTasja/Introduction-to-Game-Design-and-Development/blob/master/Bartok/Screens/main.png)
+
+WORD GAME
+-------------------
++ to try the game -  https://a-tasja.itch.io/word-game
+
+
+![alt text](https://github.com/aTasja/Introduction-to-Game-Design-and-Development/blob/master/WordGame/Screenshots/game.png)
